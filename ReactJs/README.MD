@@ -2,9 +2,9 @@
 Вам необходимо разработать простое веб-приложения с помощью [React](https://facebook.github.io/react/)
 
 В приложении должны быть три страницы:
-    - О приложении
-    - Калькулятор
-    - Контакты
+- О приложении
+- Калькулятор
+- Контакты
 
 # О приложении
 Краткое описание приложения, аналог Readme. Опишите какие использовались технологии, библиотеки и
@@ -38,6 +38,6 @@
 
 # Полезные ссылки
 ---
-[GluePrint](http://glueprintapp.com/)
-[Sketch](https://www.sketchapp.com/)
-[Figma](https://www.figma.com/)
+- [GluePrint](http://glueprintapp.com/)
+- [Sketch](https://www.sketchapp.com/)
+- [Figma](https://www.figma.com/)
