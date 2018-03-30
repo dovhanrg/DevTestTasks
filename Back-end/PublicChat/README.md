@@ -15,5 +15,5 @@ Posts stored in database, and users can get or create posts by using REST API.
 - Preferably use SQLite with in-memory mode as database and Express as REST API.
 - Write tests for endpoints, so we can easily make sure that API is work.
 - Use Sequelize or another ORM.
-- Deploy using Digital Ocean.
+- Deploy using Digital Ocean or etc.
 - Use docker container and deploy using CI/CD (for example Wercker).
