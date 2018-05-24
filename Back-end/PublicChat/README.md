@@ -17,3 +17,7 @@ Posts stored in database, and users can get or create posts by using REST API.
 - Use Sequelize or another ORM.
 - Deploy using Digital Ocean or etc.
 - Use docker container and deploy using CI/CD (for example Wercker).
+
+For any questions even silly ones write to maintainer or to 
+Telegram - @ArickVigas
+Email - iarick.vigasi@gmail.com
