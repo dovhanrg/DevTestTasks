@@ -11,9 +11,10 @@ Posts stored in database, and users can get or create posts by using REST API.
 - Postman collection for testing
 - Documentation using swagger
 
-# Additional requirements
-- Preferably use SQLite with in-memory mode as database and Express as REST API.
+# Additional requirements (Nice to have)
+- Preferably use Mongo or PostgreSQL.
 - Write tests for endpoints, so we can easily make sure that API is work.
 - Use Sequelize or another ORM.
 - Deploy using Digital Ocean or etc.
 - Use docker container and deploy using CI/CD (for example Wercker).
+- JWT Authentication
